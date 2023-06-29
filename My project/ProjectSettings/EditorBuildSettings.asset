@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Sakums.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Teorija.unity
+    guid: 957322f709fc6264694732e306c3a823
+  - enabled: 1
+    path: Assets/Scenes/Vesture.unity
+    guid: 9fecc735102797d49a291331614796b8
+  - enabled: 1
+    path: Assets/Scenes/Animacija.unity
+    guid: 723b28e7dfccd724fbb2c138a2f6c620
   m_configObjects: {}
